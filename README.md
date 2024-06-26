@@ -2,7 +2,7 @@
 # Amit Jangir
 ###  Data Science Enthusiast 
 
-Welcome to my GitHub profile! I'm Sukhman Singh, a Data Science enthusiast with a passion for leveraging data to drive insights and solve complex problems. I am constantly expanding my skills and knowledge in the field of data science, and I am excited to share my journey with you through my project portfolio.
+Welcome to my GitHub profile! I'm Amit Jangir , a Data Science enthusiast with a passion for leveraging data to drive insights and solve complex problems. I am constantly expanding my skills and knowledge in the field of data science, and I am excited to share my journey with you through my project portfolio.
 
 
 
